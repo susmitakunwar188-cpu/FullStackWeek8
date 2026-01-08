@@ -10,3 +10,4 @@
 "# OODP" 
 "# OODPJAVA" 
 "# fullstackweek7" 
+"# AI_ASSIGNMENT1" 
